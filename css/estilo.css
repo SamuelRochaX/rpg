@@ -1,0 +1,40 @@
+body {
+    padding-top: 51px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background:url("https://pre00.deviantart.net/a318/th/pre/f/2016/217/2/0/sasha_a_by_ichigoxdstrawberry-dacrzbf.jpg");
+    background-repeat: no-repeat;
+    background-size: cover, contain;
+    background-attachment:fixed;
+}
+
+.linhaCinza {
+    background: gray;
+}
+
+.linhaVermelha {
+    background: red;
+}
+
+.bg-color-padding p {
+    padding: 15px;   
+}
+
+.text {
+    color: black;
+}
+
+.jumbotron {
+    width:inherit;
+}
+
+.baixo {
+    padding-bottom: 15px;
+}
+
+.menor {
+    width: auto;
+    height: inherit;
+}
